@@ -1,0 +1,25 @@
+{
+  "name": "b-web-200-nce-2-1-epytodo-yanis.pellegrini-chnaifi",
+  "version": "1.0.0",
+  "description": "Backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EpitechPromo2028/B-WEB-200-NCE-2-1-epytodo-yanis.pellegrini-chnaifi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7"
+  }
+}
